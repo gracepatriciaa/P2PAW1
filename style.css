@@ -20,6 +20,11 @@ body{
         width:50%;
         float:left;
     }
+
+    .col-sm-12{
+        width: 33%;
+        float: left;
+    }
 }
 
 /* dekstop : layout yg ditampilkan 4 kolom */
@@ -39,7 +44,7 @@ body{
 
     .col-lg-6{
         width:50%;
-        float: left;
+        float:left;
 
     }
 }
@@ -74,4 +79,7 @@ body{
     content: " ";
     clear:both;
     display: table;
+}
+.circle{
+    border-radius: 5%;
 }
